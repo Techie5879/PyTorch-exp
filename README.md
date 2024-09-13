@@ -1,2 +1,2 @@
 # PyTorch-exp
-Experimentation with PyTorch
+Experimentation with PyTorch and einsum, trying to understand tensor operations and get an intuition.
